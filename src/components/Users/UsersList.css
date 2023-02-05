@@ -1,0 +1,18 @@
+.users-list-contaner{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 750px;
+    min-width: 600px;
+    width: 50%;
+    padding: 10px 10px 0px 10px;
+    background-color: rgb(246, 181, 207);
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.users-list-contaner ul{
+    list-style-type: none;
+    padding: 0px;
+}

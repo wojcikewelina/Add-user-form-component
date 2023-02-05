@@ -1,0 +1,26 @@
+
+.buttonType {
+    display: block;
+    border-radius: 10px;
+    width: 20%;
+    min-width: 120px;
+    margin: 0 auto;
+    margin-top: 25px;
+    height: 40px;
+    background-color: rgb(244, 191, 212);
+    font: inherit;
+    padding: 0.25rem 1rem;
+    cursor: pointer;
+    justify-content: center;
+  }
+  
+  .buttonType:hover,
+  .buttonType:active {
+    background: rgb(235, 118, 165);
+    border-color: rgb(235, 118, 165);
+    border: solid grey;
+  }
+  
+  .buttonType:focus {
+    outline: none;
+  }
